@@ -1,1 +1,1 @@
-This is the application of book store to purchase your favourite books
+This is the application of books where you can read your favourite books
